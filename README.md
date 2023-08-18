@@ -1,1 +1,1 @@
-# sumologic
+# SumoLogic
